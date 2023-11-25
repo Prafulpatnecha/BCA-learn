@@ -1,0 +1,10 @@
+1)C Program to Find ASCII Value of a Character
+2)C Program to Calculate Average Using Arrays
+3)C Program to Find Largest Element in an Array
+4)C Program to Calculate Standard Deviation
+5)C Program to Multiply Two Matrices Using Multi-dimensional Arrays
+6)C Program to Find the Frequency of Characters in a String
+7)C Program to Count the Number of Vowels, Consonants and so on
+8)C Program to Remove all Characters in a String Except Alphabets
+9)C Program to Find the Length of a String
+10)C Program to Concatenate Two Strings

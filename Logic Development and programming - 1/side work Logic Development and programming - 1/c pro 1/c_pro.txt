@@ -1,0 +1,15 @@
+1)C Program to Swap Two Numbers
+2)C Program to Check Whether a Number is Even or Odd
+3)C Program to Find the Largest Number Among Three Numbers
+4)C Program to Check Leap Year
+5)C Program to Check Whether a Number is Positive or Negative
+6) C Program to Calculate the Sum of Natural Numbers
+7)C Program to Find Factorial of a Number
+8)C Program to Check Whether a Number is Palindrome or Not
+9)C Program to Check Whether a Number is Prime or Not
+10)
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5

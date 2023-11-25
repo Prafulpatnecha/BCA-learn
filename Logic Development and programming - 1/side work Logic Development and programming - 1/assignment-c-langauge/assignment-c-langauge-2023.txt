@@ -1,0 +1,10 @@
+1)explain features of c language briefly
+2)explain identifiers with syntax and example in c briefly
+3)explain all operators with example in c briefly
+4)explain conditional statement in c with example briefly
+5)explain loops available in c with example briefly
+6)explain array with types of arrays with example briefly
+7)explain function with example in c briefly
+8)explain string with example in c briefly
+9)explain pointers in c briefly
+10)explain structure and union of c program with example briefly

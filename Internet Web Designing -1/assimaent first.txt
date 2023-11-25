@@ -1,0 +1,27 @@
+Que1.
+1.define footer element  (2)
+2.explain video tag with syntax and defination (2)
+3.list down the table tag proprties (2)
+4.Explain <a> tag with example
+5.explain html5 audio and video.
+HTML5 features include native audio and video support without the need for Flash. The HTML5 <audio> and <video> tags make it simple to add media to a website. You need to set src attribute to identify the media source and include a controls attribute so the user can play and pause the media.
+
+Que2. 
+1.explain three different list tags (3)
+2.what is semantic tags?explain section and header tag(3)
+3.what is switching tachnique and why it is required? (3)
+4.Explain <table> tag in detail
+5.explain <img>tag with attributes and example
+6.Differentiate between Intranet, Extranet and
+Internet.
+
+movies downlod///castal///
+
+Que3.
+1. design the student information form.(5)
+2. design the table which conatins the student details.(5)
+3. what is dns and explain its types  (5)
+4. Write a brief note on HTML5 Document Structure.
+5. Explain briefly : Frame in HTML.
+6. explain <form> tag with attributes and example
+7. Write a note on types of computer network.
